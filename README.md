@@ -1,0 +1,1 @@
+This project is an HTML & CSS project from FreeCodeCamp's [curriculum](https://www.freecodecamp.org/challenges/build-a-tribute-page). The goal of the project was to build a tribute page for someone of your choice. I chose Abraham Lincoln. Enjoy!
